@@ -8,7 +8,7 @@
     - Passwords: 
       - passwords are the weakest link in any authentication process. People make easy passwords, reuse passwords, share passwords, write them down, etc.
       - Passphrases are better but may only address the first issue. All the rest still apply. Passphrases are where you use a set of 3 -4 **RANDOM** words rather than a password with numbers and symbols
-      - As long as passwords are currently being used, protect yourself by using a password manager. They help by
+      - **PROTECT yourself by using a password manager**. They help by
         - making strong passwords - they remember them for you rather than you making easy ones you will remember
         - not reusing passwords - they can make and remember unique passwords, something you won't do if you need to remember them
         - Sharing passwords: This is often necessary. password managers like lastpass let you share securely, without giving away the password, and since they are not reused passwords, sharing only compromises one system 
