@@ -6,7 +6,8 @@
     - **The price of security is friction.** Nothing is free. if you want to be secure, it will be inconvenient and **it will require learning**. As thieves get better tools, security becomes more inconvenient, and then it gets better as new security tools are built. If you refuse to learn, be ready to pay. The people who want to steal your money, identity, life are learning, not whining. You need to stop whining and just get on with it.
       - or else live like it's the 1980s. Get a dumb phone and just stick with it. don't use a single internet connected service. It is a valid choice some people make.
     - Passwords: 
-      - passwords are the weakest link in any authentication process. People make easy passwords, reuse passwords, share passwords, write them down, etc. 
+      - passwords are the weakest link in any authentication process. People make easy passwords, reuse passwords, share passwords, write them down, etc.
+      - Passphrases are better but may only address the first issue. All the rest still apply. Passphrases are where you use a set of 3 -4 **RANDOM** words rather than a password with numbers and symbols
       - As long as passwords are currently being used, protect yourself by using a password manager. They help by
         - making strong passwords - they remember them for you rather than you making easy ones you will remember
         - not reusing passwords - they can make and remember unique passwords, something you won't do if you need to remember them
@@ -15,7 +16,7 @@
         - Writing down passwords : you can still write them down, in a secure book, locked in a secure place, but do not carry the book outside. The password manager does that job for you. 
       - **Learn to use your password manager** no matter how hard it may seem. It's worth it to protect your identity, your retirement, your family security and your sanity. 
     - Passwordless
-      - Passphrases are better but may only address the first issue. All the rest still apply
+      - 
       - Passwords are "something you know", and something you know could also be something someone else knows. We don't realize how much of our knowledge can leak away online
       - More companies are moving to 'passwordless' authentication but they do it in many many ways. This is an area of experimentation. There is no single answer yet
       - Some firms do it by no longer needing a password. They just send you an SMS OTP on the phone. In india, Flipkart, amazon, swiggy do this. Swiggy at least seems to have an additional step requiring you to go to your email. flipkart and amazon just need the OTP. 
