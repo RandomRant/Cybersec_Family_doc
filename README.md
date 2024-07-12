@@ -1,4 +1,4 @@
-# CyberSecurity concepts for the family. 
+#CyberSecurity concepts for the family. 
   - Login/Authentication Methods
     - Authentication methods are of 3 types. Something you know (password/passphrase/security question), something you have (phone, computer, usb key), something you are (biometric/face). MultiFactor authentication use at least 2 of these. 
       - So you might be asked to enter a password (somethin you know), and then have an otp come on your phone (something you have)
