@@ -3,7 +3,7 @@
     - Authentication methods are of 3 types. Something you know (password/passphrase/security question), something you have (phone, computer, usb key), something you are (biometric/face). MultiFactor authentication use at least 2 of these. 
       - So you might be asked to enter a password (somethin you know), and then have an otp come on your phone (something you have)
       - You might be asked to click a push notification for an app on the phone (something you have) which then requires you to put in your fingerprint (something you are)
-    - **The price of security is friction. **Nothing is free. if you want to be secure, it will be inconvenient and **it will require learning**. As thieves get better tools, security becomes more inconvenient, and then it gets better as new security tools are built. If you refuse to learn, be ready to pay. The people who want to steal your money, identity, life are learning, not whining. You need to stop whining and just get on with it.
+    - **The price of security is friction.** Nothing is free. if you want to be secure, it will be inconvenient and **it will require learning**. As thieves get better tools, security becomes more inconvenient, and then it gets better as new security tools are built. If you refuse to learn, be ready to pay. The people who want to steal your money, identity, life are learning, not whining. You need to stop whining and just get on with it.
       - or else live like it's the 1980s. Get a dumb phone and just stick with it. don't use a single internet connected service. It is a valid choice some people make.
     - Passwords: 
       - passwords are the weakest link in any authentication process. People make easy passwords, reuse passwords, share passwords, write them down, etc. 
