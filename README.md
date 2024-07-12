@@ -22,5 +22,4 @@
       - Needless to say: **DO NOT SHARE OTPs** with anyone you don't trust with your life. 
       - Right now, Passwordless authentication seem to focus on passkeys. Passkeys are digital 'keys' stored on a specific device (phone or computer) that you have to unlock using either a pin or a fingerprint/face
       - It's not clear yet if passkeys are more secure than passwords, it depends on how they are used. In my opinion, passwords have become so useless and frustrating that this is a way to get away from them altogether. 
-      - 
-  - 
+        
