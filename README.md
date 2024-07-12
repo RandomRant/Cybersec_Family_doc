@@ -1,0 +1,27 @@
+CyberSecurity
+
+- Authentication
+  - Authentication methods are of 3 types. Something you know (password/passphrase/security question), something you have (phone, computer, usb key), something you are (biometric/face). MultiFactor authentication use at least 2 of these. 
+    - So you might be asked to enter a password (somethin you know), and then have an otp come on your phone (something you have)
+    - You might be asked to click a push notification for an app on the phone (something you have) which then requires you to put in your fingerprint (something you are)
+  - **The price of security is friction. **Nothing is free. if you want to be secure, it will be inconvenient and **it will require learning**. As thieves get better tools, security becomes more inconvenient, and then it gets better as new security tools are built. If you refuse to learn, be ready to pay. The people who want to steal your money, identity, life are learning, not whining. You need to stop whining and just get on with it.
+    - or else live like it's the 1980s. Get a dumb phone and just stick with it. don't use a single internet connected service. It is a valid choice some people make.
+  - Passwords: 
+    - passwords are the weakest link in any authentication process. People make easy passwords, reuse passwords, share passwords, write them down, etc. 
+    - As long as passwords are currently being used, protect yourself by using a password manager. They help by
+      - making strong passwords - they remember them for you rather than you making easy ones you will remember
+      - not reusing passwords - they can make and remember unique passwords, something you won't do if you need to remember them
+      - Sharing passwords: This is often necessary. password managers like lastpass let you share securely, without giving away the password, and since they are not reused passwords, sharing only compromises one system 
+        - (unless you're sharing a platform password like google, microsoft, facebook or lastpass.) Never, ever share these with anyone you don't implicitly trust (ie. trust with your life)
+      - Writing down passwords : you can still write them down, in a secure book, locked in a secure place, but do not carry the book outside. The password manager does that job for you. 
+    - **Learn to use your password manager** no matter how hard it may seem. It's worth it to protect your identity, your retirement, your family security and your sanity. 
+  - Passwordless
+    - Passphrases are better but may only address the first issue. All the rest still apply
+    - Passwords are "something you know", and something you know could also be something someone else knows. We don't realize how much of our knowledge can leak away online
+    - More companies are moving to 'passwordless' authentication but they do it in many many ways. This is an area of experimentation. There is no single answer yet
+    - Some firms do it by no longer needing a password. They just send you an SMS OTP on the phone. In india, Flipkart, amazon, swiggy do this. Swiggy at least seems to have an additional step requiring you to go to your email. flipkart and amazon just need the OTP. 
+    - Needless to say: **DO NOT SHARE OTPs** with anyone you don't trust with your life. 
+    - Right now, Passwordless authentication seem to focus on passkeys. Passkeys are digital 'keys' stored on a specific device (phone or computer) that you have to unlock using either a pin or a fingerprint/face
+    - It's not clear yet if passkeys are more secure than passwords, it depends on how they are used. In my opinion, passwords have become so useless and frustrating that this is a way to get away from them altogether. 
+    - 
+- 
